@@ -15,7 +15,7 @@ I do some works with **Java**, **Lua**, **JS**, **Vue.js** and **C**, contact me
 
 - [**Stality**](https://discord.gg/stality): Co Owner
 - [**BackSide**](https://discord.gg/backsidefa): Développer
-- [**SpaceV**](https://discord.gg/vitaliferp): Développer
+- [**VitaLife**](https://discord.gg/vitaliferp): Développer
 
 ## 📚 General
 
