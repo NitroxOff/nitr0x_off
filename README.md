@@ -15,11 +15,11 @@ I do some works with **Java**, **Lua**, **JS**, **Vue.js** and **C**, contact me
 
 - [**Stality**](https://discord.gg/stality): Co Owner
 - [**BackSide**](https://discord.gg/backsidefa): Développer
-- [**SpaceV**](https://discord.gg/spacev): Développer
+- [**SpaceV**](https://discord.gg/vitaliferp): Développer
 
 ## 📚 General
 
-- 🔭 I’m currently working on BackSide & SpaceV
+- 🔭 I’m currently working on BackSide & VitaLife
  
 ## 💻 All my projects FiveM in staff
 
@@ -28,6 +28,7 @@ I do some works with **Java**, **Lua**, **JS**, **Vue.js** and **C**, contact me
 - Unity RP 
 - Dynasty RP
 - RedSide RP
+- LSCity RP
 - Meta RP
 - Revolution RP
 - SmallCity RP
@@ -35,3 +36,4 @@ I do some works with **Java**, **Lua**, **JS**, **Vue.js** and **C**, contact me
 - FlashLand FA
 - GtaNew FA
 - FlashMood RP
+- VitaLife RP
