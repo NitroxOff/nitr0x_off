@@ -14,12 +14,11 @@ I do some works with **Java**, **Lua**, **JS**, **Vue.js** and **C**, contact me
 ## 💡 Projects with My Work
 
 - [**Stality**](https://discord.gg/stality): Co Owner
-- [**BackSide**](https://discord.gg/backsidefa): Développer
 - [**VitaLife**](https://discord.gg/vitaliferp): Développer
 
 ## 📚 General
 
-- 🔭 I’m currently working on BackSide & VitaLife
+- 🔭 I’m currently working on VitaLife
  
 ## 💻 All my projects FiveM in staff
 
