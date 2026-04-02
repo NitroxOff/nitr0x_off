@@ -13,7 +13,6 @@ I do some works with **Java**, **Lua**, **JS**, **Vue.js** and **C**, contact me
 
 ## 💡 Projects with My Work
 
-- [**Stality**](https://discord.gg/stality): Co Owner
 - [**VitaLife**](https://discord.gg/vitaliferp): Développer
 
 ## 📚 General
