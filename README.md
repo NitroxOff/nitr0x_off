@@ -13,11 +13,11 @@ I do some works with **Java**, **Lua**, **JS**, **Vue.js** and **C**, contact me
 
 ## 💡 Projects with My Work
 
-- [**VitaLife**](https://discord.gg/vitaliferp): Développer
+- [**SlowCity**](https://discord.gg/slowcity): Développer
 
 ## 📚 General
 
-- 🔭 I’m currently working on VitaLife
+- 🔭 I’m currently working on SlowCity
  
 ## 💻 All my projects FiveM in staff
 
@@ -35,3 +35,4 @@ I do some works with **Java**, **Lua**, **JS**, **Vue.js** and **C**, contact me
 - GtaNew FA
 - FlashMood RP
 - VitaLife RP
+- SlowCity RP
