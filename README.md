@@ -14,7 +14,7 @@ I do some works with **Java**, **Lua**, **JS**, **Vue.js** and **C**, contact me
 ## 💡 Projects with My Work
 
 - [**SlowCity**](https://discord.gg/slowcity): Développer
-- [**Asteria**](https://discord.gg/asteriarp): Fondateur
+- [**Asteria**](https://discord.gg/asteriarp): Founder
 
 ## 📚 General
 
