@@ -9,15 +9,16 @@ I do some works with **Java**, **Lua**, **JS**, **Vue.js** and **C**, contact me
 
 ## 📫 Contact Me on Social Media
 
-✉️ [Email](mailto:nitroxfn01@gmail.com) | 💬 [Issue](https://discord.com/channels/@me/894304197288288327) Me about everything!
+✉️ [Email](mailto:nitroxfivemdev@gmail.com) | 💬 [Issue](https://discord.com/channels/@me/894304197288288327) Me about everything!
 
 ## 💡 Projects with My Work
 
 - [**SlowCity**](https://discord.gg/slowcity): Développer
+- - [**Asteria**](https://discord.gg/asteriarp): Fondateur
 
 ## 📚 General
 
-- 🔭 I’m currently working on SlowCity
+- 🔭 I’m currently working on SlowCity and Asteria
  
 ## 💻 All my projects FiveM in staff
 
@@ -36,3 +37,4 @@ I do some works with **Java**, **Lua**, **JS**, **Vue.js** and **C**, contact me
 - FlashMood RP
 - VitaLife RP
 - SlowCity RP
+- Asteria RP
