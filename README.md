@@ -13,7 +13,7 @@ I do some works with **Java**, **Lua**, **JS**, **Vue.js** and **C**, contact me
 
 ## 💡 Projects with My Work
 
-- [**SlowCity**](https://discord.gg/slowcity): Développer
+- [**SlowCity**](https://discord.gg/slowcityrp): Développer
 - [**Asteria**](https://discord.gg/asteriarp): Founder
 
 ## 📚 General
